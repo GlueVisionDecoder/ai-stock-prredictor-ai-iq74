@@ -1,4 +1,4 @@
-# 
+# Nouveau AI Emotion Detection from Text modèles. Avec réseaux de neurones et visualisation des données — optimisé pour des performances maximales.
 
 
 
